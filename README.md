@@ -28,7 +28,7 @@
 
 <br/><br/>
 
-<img src="./assets/contact.svg" width="100%" alt="Contact" />
+<img src="./contact.svg" width="100%" alt="Contact" />
 
 <sub>Profile views: <img src="https://komarev.com/ghpvc/?username=vedant-n-sonawane&color=58a6ff&style=flat-square&label=" height="14"/></sub>
 
