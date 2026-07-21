@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="472" viewBox="0 0 1200 472">
+  <defs>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="50%" stop-color="#bc8cff"/>
+      <stop offset="100%" stop-color="#f778ba"/>
+    </linearGradient>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.55"/>
+      <stop offset="50%" stop-color="#bc8cff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#f778ba" stop-opacity="0.55"/>
+    </linearGradient>
+    <radialGradient id="glowBlue" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowPurple" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#bc8cff" stop-opacity="0.50"/>
+      <stop offset="100%" stop-color="#bc8cff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowPink" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f778ba" stop-opacity="0.40"/>
+      <stop offset="100%" stop-color="#f778ba" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blurBig" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="45"/>
+    </filter>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="2" stdDeviation="6" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="472" fill="#080b12"/>
+  <circle cx="96" cy="71" r="425" fill="url(#glowBlue)" filter="url(#blurBig)"/>
+  <circle cx="660" cy="496" r="448" fill="url(#glowPurple)" filter="url(#blurBig)"/>
+  <circle cx="1140" cy="47" r="378" fill="url(#glowPink)" filter="url(#blurBig)"/>
+<rect x="40" y="30" width="1120" height="412" rx="22" fill="#ffffff" fill-opacity="0.045" stroke="url(#borderGrad)" stroke-width="1.2" filter="url(#softShadow)"/><text x="70" y="80" font-family="Consolas, 'SF Mono', Menlo, monospace" font-size="14" letter-spacing="4" fill="#8b949e">FEATURED PROJECTS</text><rect x="70" y="82" width="4" height="52" rx="2" fill="#bc8cff"/><text x="90" y="102" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#f0f6fc">TriNetra</text><text x="90" y="124" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#8b949e">Multi-sensor edge-AI architecture using federated learning — patent/copyright filing in progress.</text>
+  <rect x="90" y="146" width="91" height="24" rx="12.0" fill="#bc8cff" fill-opacity="0.10" stroke="#bc8cff" stroke-opacity="0.45" stroke-width="1"/>
+  <circle cx="110" cy="158.0" r="4" fill="#bc8cff"/>
+  <text x="122" y="163.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#f0f6fc">Python</text>
+
+  <rect x="188.78" y="146" width="91" height="24" rx="12.0" fill="#bc8cff" fill-opacity="0.10" stroke="#bc8cff" stroke-opacity="0.45" stroke-width="1"/>
+  <circle cx="208.78" cy="158.0" r="4" fill="#bc8cff"/>
+  <text x="221" y="163.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#f0f6fc">Flower</text>
+
+  <rect x="287.56" y="146" width="155" height="24" rx="12.0" fill="#bc8cff" fill-opacity="0.10" stroke="#bc8cff" stroke-opacity="0.45" stroke-width="1"/>
+  <circle cx="307.56" cy="158.0" r="4" fill="#bc8cff"/>
+  <text x="320" y="163.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#f0f6fc">Computer Vision</text>
+
+  <rect x="450.51" y="146" width="148" height="24" rx="12.0" fill="#bc8cff" fill-opacity="0.10" stroke="#bc8cff" stroke-opacity="0.45" stroke-width="1"/>
+  <circle cx="470.51" cy="158.0" r="4" fill="#bc8cff"/>
+  <text x="483" y="163.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#f0f6fc">Edge Computing</text>
+<rect x="70" y="174" width="4" height="52" rx="2" fill="#ffa657"/><text x="90" y="194" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#f0f6fc">Swasthyam</text><text x="90" y="216" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#8b949e">AI &amp; IoT health-tracking platform — National Runner-Up, Hacksagon 2026.</text>
+  <rect x="90" y="238" width="98" height="24" rx="12.0" fill="#ffa657" fill-opacity="0.10" stroke="#ffa657" stroke-opacity="0.45" stroke-width="1"/>
+  <circle cx="110" cy="250.0" r="4" fill="#ffa657"/>
+  <text x="122" y="255.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#f0f6fc">Node.js</text>
+
+  <rect x="195.91" y="238" width="98" height="24" rx="12.0" fill="#ffa657" fill-opacity="0.10" stroke="#ffa657" stroke-opacity="0.45" stroke-width="1"/>
+  <circle cx="215.91" cy="250.0" r="4" fill="#ffa657"/>
+  <text x="228" y="255.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#f0f6fc">Express</text>
+
+  <rect x="301.82" y="238" width="98" height="24" rx="12.0" fill="#ffa657" fill-opacity="0.10" stroke="#ffa657" stroke-opacity="0.45" stroke-width="1"/>
+  <circle cx="321.82" cy="250.0" r="4" fill="#ffa657"/>
+  <text x="334" y="255.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#f0f6fc">MongoDB</text>
+
+  <rect x="407.73" y="238" width="119" height="24" rx="12.0" fill="#ffa657" fill-opacity="0.10" stroke="#ffa657" stroke-opacity="0.45" stroke-width="1"/>
+  <circle cx="427.73" cy="250.0" r="4" fill="#ffa657"/>
+  <text x="440" y="255.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#f0f6fc">OpenAI API</text>
+<rect x="70" y="266" width="4" height="52" rx="2" fill="#f778ba"/><text x="90" y="286" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#f0f6fc">Lifelink</text><text x="90" y="308" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#8b949e">Real-time platform connecting blood donors, hospitals &amp; communities.</text>
+  <rect x="90" y="330" width="105" height="24" rx="12.0" fill="#f778ba" fill-opacity="0.10" stroke="#f778ba" stroke-opacity="0.45" stroke-width="1"/>
+  <circle cx="110" cy="342.0" r="4" fill="#f778ba"/>
+  <text x="122" y="347.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#f0f6fc">React.js</text>
+
+  <rect x="203.04" y="330" width="119" height="24" rx="12.0" fill="#f778ba" fill-opacity="0.10" stroke="#f778ba" stroke-opacity="0.45" stroke-width="1"/>
+  <circle cx="223.04" cy="342.0" r="4" fill="#f778ba"/>
+  <text x="235" y="347.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#f0f6fc">JavaScript</text>
+<rect x="70" y="358" width="4" height="52" rx="2" fill="#39c5cf"/><text x="90" y="378" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#f0f6fc">Yatraveer</text><text x="90" y="400" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#8b949e">Cross-platform travel safety app with SOS automation and live tracking.</text>
+  <rect x="90" y="422" width="134" height="24" rx="12.0" fill="#39c5cf" fill-opacity="0.10" stroke="#39c5cf" stroke-opacity="0.45" stroke-width="1"/>
+  <circle cx="110" cy="434.0" r="4" fill="#39c5cf"/>
+  <text x="122" y="439.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#f0f6fc">React Native</text>
+
+  <rect x="231.56" y="422" width="119" height="24" rx="12.0" fill="#39c5cf" fill-opacity="0.10" stroke="#39c5cf" stroke-opacity="0.45" stroke-width="1"/>
+  <circle cx="251.56" cy="434.0" r="4" fill="#39c5cf"/>
+  <text x="264" y="439.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#f0f6fc">JavaScript</text>
+</svg>
