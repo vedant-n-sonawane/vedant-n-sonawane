@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Vedant N. Sonawane" />
+<img src="./hero.svg" width="100%" alt="Vedant N. Sonawane" />
 
-<img src="./assets/techstack.svg" width="100%" alt="Tech Stack" />
+<img src="./techstack.svg" width="100%" alt="Tech Stack" />
 
-<img src="./assets/about.svg" width="100%" alt="About Me" />
+<img src="./about.svg" width="100%" alt="About Me" />
 
-<img src="./assets/projects.svg" width="100%" alt="Featured Projects" />
+<img src="./projects.svg" width="100%" alt="Featured Projects" />
 
 <br/><br/>
 
